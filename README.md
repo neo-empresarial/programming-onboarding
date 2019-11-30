@@ -20,8 +20,7 @@ NOTE: If you need to hard reset your local repo to match
        the remote master use the following commands:
 ```bash
 git fetch origin
-```bash
-```git reset --hard origin/master
+git reset --hard origin/master
 ``` 
 Undo the act of committing, leaving everything else intact:
 ```bash
@@ -59,8 +58,7 @@ git checkout branch_name
 Navigate file structure as needed:
 ```bash
 ls 
-```bash
-```cd folder_name
+cd folder_name
 ``` 
 Add the files to the branch:
 ```bash
@@ -87,7 +85,8 @@ git checkout master
 Delete local branch: 
 ```bash
 git branch -d branch_name
-``` OR 
+``` 
+OR 
 ```bash
 git branch -D branch_name
 ``` 
@@ -109,6 +108,7 @@ git push origin master
 Delete local branch: 
 ```bash
 git branch -d branch_name
-``` OR bash
+``` 
+OR bash
 
 ```git branch -D branch_name```
