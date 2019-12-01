@@ -13,6 +13,9 @@ NOTE: Exit VIM if needed ctrl + c then type :qa! and push enter
 NOTE: If file is not in local repo, manually move the file into 
        the correct folder (outside of console)
 
+## Advent of [code](https://adventofcode.com/2019/l)
+Training program: private leaderboard at 669252-3306916c
+
 --------------------------------------------
  Managing your Local Repo
 --------------------------------------------
